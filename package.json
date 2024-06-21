@@ -1,0 +1,20 @@
+{
+  "name": "Sigmiastybot",
+  "version": "0.9",
+  "description": "1.0 jak zrobie ryby",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ja",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "moment": "^2.29.4",
+    "node-fetch": "^3.3.2",
+    "node-notifier": "^10.0.1",
+    "seedrandom": "^3.0.5",
+    "tmi.js": "^1.8.5"
+  }
+}
